@@ -1,13 +1,13 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop 👂
-  - `try..catch` 👂
+  - Event loop: 👂 heard
+  - `try..catch`: 👂 heard
   - Non-blocking
-  - Async I/O 👂
+  - Async I/O: 👂 heard
   - Thread pool
   - Pattern Reactor
-  - CAS operations 👂
+  - CAS operations: 👂 heard
   - epoll
   - kqueue
   - Completion ports
